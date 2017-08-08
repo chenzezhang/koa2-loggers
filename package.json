@@ -30,7 +30,7 @@
     "koa-router": "^7.2.1"
   },
   "files": [
-    "README.md",
+    "README",
     "index.js",
     "lib/",
     "LICENSE"
