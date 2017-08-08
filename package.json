@@ -4,7 +4,7 @@
   "description": "kos2-loggers support Koa-middleware",
   "main": "index.js",
   "scripts": {
-    "test": "s"
+    "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
     "koa2",
     "logger"
   ],
-  "author":{
+  "author": {
     "name": "chenzezhang",
     "url": "https://github.com/chenzezhang/"
   },
@@ -24,5 +24,15 @@
   "license": "MIT",
   "dependencies": {
     "moment": "^2.18.1"
-  }
+  },
+  "devDependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1"
+  },
+  "files": [
+    "README.md",
+    "index.js",
+    "lib/",
+    "LICENSE"
+  ]
 }
