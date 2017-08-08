@@ -29,11 +29,5 @@
     "koa": "^2.3.0",
     "koa-router": "^7.2.1"
   },
-  "homepage": "https://github.com/chenzezhang/koa2-loggers#readme",
-  "files": [
-    "README",
-    "index.js",
-    "lib/",
-    "LICENSE"
-  ]
+  "readmeFilename": "README.md"
 }
