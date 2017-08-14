@@ -4,7 +4,7 @@ A wrapper for support Koa2 logger middleware，Generate log files。
 
 # Installation
 ```
-$ npm i --save kog2-loggers
+$ npm i --save koa2-loggers
 ```
 
 ## Koa-middleware way
