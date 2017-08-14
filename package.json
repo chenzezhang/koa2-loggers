@@ -1,7 +1,7 @@
 {
   "name": "koa2-loggers",
-  "version": "1.0.1",
-  "description": "kos2-loggers support Koa-middleware",
+  "version": "0.2.1",
+  "description": "koa2-loggers support Koa-middleware",
   "main": "index.js",
   "scripts": {
     "test": "node test/index.js"
