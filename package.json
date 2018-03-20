@@ -1,6 +1,6 @@
 {
   "name": "koa2-loggers",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "koa2-loggers support Koa-middleware",
   "main": "index.js",
   "scripts": {
@@ -14,10 +14,7 @@
     "koa2",
     "logger"
   ],
-  "author": {
-    "name": "chenzezhang",
-    "url": "https://github.com/chenzezhang/"
-  },
+  "author": "chenzezhang (https://github.com/chenzezhang/)",
   "bugs": {
     "url": "https://github.com/chenzezhang/koa2-loggers/issues"
   },
@@ -26,8 +23,12 @@
     "moment": "^2.21.0"
   },
   "devDependencies": {
-    "koa": "^2.3.0",
-    "koa-router": "^7.2.1"
+    "koa": "^2.5.0",
+    "koa-router": "^7.4.0"
   },
-  "readmeFilename": "README.md"
+  "homepage": "https://github.com/chenzezhang/koa2-loggers#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
 }
